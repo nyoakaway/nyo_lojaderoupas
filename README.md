@@ -1,5 +1,5 @@
 # NYO LOJA DE ROUPA
-Loja de roupa padrão, apenas modificada para comunicar com o **nyo_guardaroupa**
+Loja de roupa padrão, apenas modificada para comunicar com o **nyo_guardaroupa**, script lançado a quase 2 anos atras!
 
 **FrameWork:** VRPEX
 
